@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @classy_.vishesh7838
-- 👀 I’m interested in ... hacking, programming, app design, making web design, making apps, making sensi, makig games cheats. etc...
-- 🌱 I'm already learned these languages at advance level - Java, phython, C++, HTML, CSS
-- 💞️ ONLINE BHI BHOKAL HE>>>>
-- 📫 How to reach me ... (u reached here thats your status now(0% infront of me), if wana increase your status then find me at different pages(Specially in DarkW*b, D*epWeb).)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Vishesh (@classy_.vishesh7838)
 
-<!---
-vishesh123595/vishesh123595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests
+
+I’m passionate about software development, including web design, application development, and building practical tech solutions using modern tools and AI.
+
+## 🌱 Skills
+
+I have experience working with:
+
+* Java
+* Python
+* C++
+* HTML, CSS
+
+## 💡 What I’m working on
+
+Currently focused on building AI-powered projects, improving UI/UX design, and exploring real-world problem solving through technology.
+
+## 🤝 Collaboration
+
+Open to collaborating on innovative projects related to web apps, AI tools, and developer-focused solutions.
+
+## 📫 Contact
+
+Feel free to connect with me here on GitHub for collaboration, ideas, or discussions.
