@@ -21,6 +21,9 @@ Currently focused on building AI-powered projects, improving UI/UX design, and e
 
 Open to collaborating on innovative projects related to web apps, AI tools, and developer-focused solutions.
 
-## 📫 Contact
+## 📬 Contact
 
-Feel free to connect with me here on GitHub for collaboration, ideas, or discussions.
+Created by Vishesh
+Connect via GitHub for collaboration 🚀
+LinkedIn VISHESH KUMAR
+https://www.linkedin.com/in/ᴠɪꜱʜᴇꜱʜ-ᴋᴜᴍᴀʀ-03825b3a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
